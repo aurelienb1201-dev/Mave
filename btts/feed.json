@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-09-01T23:30:00+02:00",
+  "message": "BTTS Scanner est en ligne. Filtre strict : aucun match n'est forcé.",
+  "today": [],
+  "history": [
+    {"date":"2026-08-30","match":"Chelsea – Brighton","level":"green","confidence":66,"odds":null,"result":"win"},
+    {"date":"2026-08-30","match":"Rennes – Le Mans","level":"green","confidence":62,"odds":null,"result":"win"},
+    {"date":"2026-09-01","match":"Birmingham – Southampton","level":"green","confidence":67,"odds":null,"result":"win"},
+    {"date":"2026-09-01","match":"West Ham – Wolves","level":"green","confidence":65,"odds":null,"result":"win"},
+    {"date":"2026-09-01","match":"Stoke – Norwich","level":"orange","confidence":61,"odds":null,"result":"loss"}
+  ]
+}
