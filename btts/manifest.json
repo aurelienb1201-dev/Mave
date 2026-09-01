@@ -1,0 +1,11 @@
+{
+  "name":"BTTS Scanner",
+  "short_name":"BTTS",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#08111f",
+  "theme_color":"#08111f",
+  "description":"Tableau de bord BTTS synchronisé automatiquement.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
